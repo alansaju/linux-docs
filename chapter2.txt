@@ -1,4 +1,0 @@
-fdisk --> disk partitioning
-ls --> list file & dir
-du  --> disk usage
-df -k  --> filesystem usage
